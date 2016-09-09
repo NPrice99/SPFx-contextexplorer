@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "625017e6-8951-4e28-846b-6ee37f61182c",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "625017e6-8951-4e28-846b-6ee37f61182c",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SpfxContextExplorerWebPart" },
+    "description": { "default": "Explore the context objects to learn about what they offer." },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SpfxContextExplorerWebPart"
+    }
+  }]
+}

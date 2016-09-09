@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-fx-context-explorer-web-part-client-side-solution",
+    "id": "8f94da7f-45f1-4c39-a4fd-11fde64427cd",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "sp-fx-context-explorer-web-part.spapp"
+  }
+}
